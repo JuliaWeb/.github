@@ -1,8 +1,8 @@
 # JuliaWeb Security Policy
 
-## Supported Julia Versions
+## Supported Package and Julia Versions
 
-The LTS and current stable releases of Julia are the ones supported for security updates.
+Only the latest released versions of the packages in this organization will receive security updates, unless there are exceptional circumstances. Further, security issues would be considered only on LTS and current stable releases of Julia.
 
 | Julia Version | Supported          |
 | ------------- | ------------------ |
